@@ -36,5 +36,7 @@ static func os_logo(name:String=""):
 		name = "Web"
 	elif name == "OSX":
 		name = "macOS"
+	elif name == "UWP":
+		name = "Windows"
 	
 	return "res://addons/get_os_name/logo/"+name.to_lower()+".png"
