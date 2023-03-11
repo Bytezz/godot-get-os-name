@@ -14,6 +14,10 @@ Which returns the name as a string. If getdistro is false will not search for Li
 `Get_os_name.os_logo(name:String="")`  
 Which return path to logo as a string. If no name provided as arg, will use os_name() to retrieve it.
 
+## Screenshot
+
+![Example](Example.png)
+
 ## License
 
 [LICENSE](LICENSE)
